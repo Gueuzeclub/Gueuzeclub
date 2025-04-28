@@ -14,8 +14,8 @@
 
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
-|Проект 1. ...  (__[github]()__)|...|pandas, seaborn, matplotlib|
-|Проект 2.  ([Исследование стартапов](https://github.com/Gueuzeclub/Project_1)|...|pandas, seaborn, matplotlib, pingouin, scipy|
+|Проект 1. ...  [Анализ объявлений для агенства недвижимости](https://github.com/Gueuzeclub/Project_1)|...|pandas, seaborn, matplotlib|
+|Проект 2.  [Исследование стартапов](https://github.com/Gueuzeclub/Project_1)|...|pandas, seaborn, matplotlib, pingouin, scipy|
 
 <div>
 
