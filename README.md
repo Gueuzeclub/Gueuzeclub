@@ -15,7 +15,7 @@
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
 |Проект 1. ...  (__[github]()__)|...|pandas, seaborn, matplotlib|
-|Проект 2.  (__[github]()__)|...|pandas, seaborn, matplotlib, pingouin, scipy|
+|Проект 2.  (__[[github](https://github.com/Gueuzeclub/Project_1)]()__)|...|pandas, seaborn, matplotlib, pingouin, scipy|
 
 <div>
 
