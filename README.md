@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)]([https://t.me/natt_ish](https://t.me/GueuzeClub))</a>
+ <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/GueuzeClub)</a>
 
 </div>
 
